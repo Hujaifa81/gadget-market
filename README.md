@@ -6,7 +6,7 @@ Your go-to destination for the latest and greatest gadgets.
 [Visit GadgetHeaven](http://gadget-market.surge.sh/)
 
 ## 📄 Requirement Document  
-[View Full Requirements](ADD_YOUR_DRIVE_OR_GITHUB_LINK_HERE)
+[View Full Requirements](https://github.com/Hujaifa81/gadget-market/blob/main/Requirements.pdf)
 
 ---
 
